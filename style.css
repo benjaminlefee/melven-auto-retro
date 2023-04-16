@@ -34,6 +34,7 @@ border-radius: 10px;}
   margin-right: 10px;
 }
 article{
+  margin-right: 10vw;margin-left: 10vw;
   border-top: 1px solid #000000;
 }
 article p{
@@ -45,7 +46,7 @@ article p{
   margin: 40px;
 }
 .article2{
-  margin-right: 20vw;margin-left: 20vw;
+  margin-right: 10vw;margin-left: 10vw;
   color: #3C5BB6;
   font-style: italic;
   font-size: 16px;
