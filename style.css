@@ -44,14 +44,14 @@ article p{
   font-family: cursive ;
   margin: 40px;
 }
-.ab{
+.article2{
   margin-right: 20vw;margin-left: 20vw;
   color: #3C5BB6;
   font-style: italic;
   font-size: 16px;
 
 }
-.ab p{
+.article2 p{
   font-size: 16px;
   margin: 20px;
 }
@@ -72,4 +72,7 @@ article img{
 }
 img{
   objext-fit: contain;
+}
+.btn{
+  margin: 30px;
 }
